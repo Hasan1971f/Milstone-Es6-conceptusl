@@ -10,7 +10,12 @@
 // console.log(money && 'versity jabo')
 
 // ||
-const bus = ""
-const rickshaw = "rickshaw ase"
+// const bus = ""
+// const rickshaw = "rickshaw ase"
 
-console.log(bus || rickshaw  )
+// console.log(bus || rickshaw  )
+
+// ternary operator 
+
+const x = 5
+console.log(x===5 ? "number is five" : "not five")
